@@ -1,0 +1,15 @@
+/*UPTx - Fundamentos de programaci½n OO
+Practica No. 1      Grupo 5H
+Objetivo: Mi primer programa 
+Integrantes: Joel Ulises MuÏoz Carreto
+Isaac Daniel Sanchez Corona
+Rub'n Eduardo Castillo Sanchez
+
+Modificaci½n: 11/01/2024
+ */
+
+public class Main{
+    public static void main(String[] args){
+        System.out.println("Objetivo: Practica 1\n\nIntegrantes:\nJoel Ulises MuÏoz Carreto\nIsaac Daniel Sanchez Corona\nRub'n Eduardo Castillo Sÿnchez\n\nSaludo: Hola Mundo");
+    }
+}
